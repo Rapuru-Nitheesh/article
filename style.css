@@ -1,0 +1,42 @@
+.body img{
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100%;
+    color: forestgreen;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+    color: #36454f;
+
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color:#e2725b;
+}
+.odd{
+    float: left;
+}
+.even {
+    float:right ;
+}
+.gen{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.copy{
+   text-align: center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color:peachpuff;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+body{
+    background-color: #fffdd0;
+}
