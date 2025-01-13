@@ -40,3 +40,21 @@ h1{
 body{
     background-color: #fffdd0;
 }
+hr{
+    margin-left: 100px;
+     margin-right: 100px;
+}
+@media (max-width:768px) {
+    .gen{
+        padding-left:0px;
+        padding-right:0px;
+    }
+    hr{
+        margin-left: 0px; 
+        margin-right:0px;
+    }
+    .copy{
+        margin-left: 0px; 
+        margin-right:0px;
+    }
+}
