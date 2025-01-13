@@ -44,6 +44,11 @@ hr{
     margin-left: 100px;
      margin-right: 100px;
 }
+.part{
+    text-align:right;
+    padding-right: 100px; 
+    color:#003366;
+}
 @media (max-width:768px) {
     .gen{
         padding-left:0px;
@@ -56,5 +61,8 @@ hr{
     .copy{
         margin-left: 0px; 
         margin-right:0px;
+    }
+    .part{
+        padding: 0px;
     }
 }
